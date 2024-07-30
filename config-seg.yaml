@@ -1,0 +1,9 @@
+
+path: /home/bg9287/object_detection
+
+train: images/train
+val: images/validation
+test: images/test
+
+nc: 1
+names: ['Tibia']
