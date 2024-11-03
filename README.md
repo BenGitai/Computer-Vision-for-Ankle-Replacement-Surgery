@@ -2,9 +2,13 @@
  The code associated with the paper of the same name
 ## Image Pre-Processing & Masking
  Can be found under the the file full_image_processing.ipynb
+ 
  Set the model path using either your own model (which you can create in object_detection_test.ipynb)
+ 
  Set the source path to your folder containing your images
+
  Set the destination path to know where your files will end up
+ 
  In the section Functions --> def Trasform(self) you can choose which of the functions you want to use
 
 ## Detection Model
